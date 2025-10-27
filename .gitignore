@@ -1,4 +1,4 @@
-.gitignre
+.gitignore
 
 /callback-promises/node_modules
 /callback-promises/user.json
